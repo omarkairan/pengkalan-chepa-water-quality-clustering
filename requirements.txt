@@ -1,0 +1,10 @@
+# Tested with Python 3.12.14. Use a dedicated environment.
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.17.0
+scikit-learn==1.5.2
+matplotlib>=3.9,<4
+openpyxl>=3.1,<4
+sdoclust==0.5.1
+# Optional notebook front end:
+jupyterlab>=4,<5
